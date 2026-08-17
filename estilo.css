@@ -8,7 +8,7 @@ body {
     margin: 0;
 
     /* Adicione estas linhas para a imagem de fundo */
-    background-image: url('https://www.google.com/imgres?q=Talmax%20logo&imgurl=https%3A%2F%2Ftalmax.com.br%2Fwp-content%2Fuploads%2F2021%2F04%2Fdwn-logo-talmax-branca.jpg&imgrefurl=https%3A%2F%2Ftalmax.com.br%2Fdownload%2Flogo-talmax-azul2%2F&docid=GvwFZ3NRjvvjMM&tbnid=jdcM96SyOGEc8M&vet=12ahUKEwikgbiv4qiWAxU4IrkGHXAWIHwQnPAOegQIRBAA..i&w=400&h=400&hcb=2&ved=2ahUKEwikgbiv4qiWAxU4IrkGHXAWIHwQnPAOegQIRBAA'); /* Altere para o caminho da sua imagem */
+    background-image: url('https://talmax.com.br/wp-content/webp-express/webp-images/uploads/wpdm-cache/dwn-logo-talmax-branca-900x0.jpg.webp'); /* Altere para o caminho da sua imagem */
     background-size: cover; /* Faz a imagem cobrir toda a área */
     background-position: center; /* Centraliza a imagem */
     background-repeat: no-repeat; /* Evita que a imagem se repita */
