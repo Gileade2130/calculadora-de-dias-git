@@ -8,7 +8,7 @@ body {
     margin: 0;
 
     /* Adicione estas linhas para a imagem de fundo */
-    background-image: url('https://scontent.fbfh15-1.fna.fbcdn.net/v/t39.30808-6/475182597_1024752669685289_5533869448342422614_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=fwz50PQtgKkQ7kNvwFGlHOO&_nc_oc=Adl-SO5sqWe4YpP_ceLXbiOs_05QDn_iVkFk-w4bjB_g4iig2BREHz03WXIRVjWizow&_nc_zt=23&_nc_ht=scontent.fbfh15-1.fna&_nc_gid=NJ7tE-kI-JPYzN7txO44dA&oh=00_AfUX9isKpj2v3GlbdDFjeKiUPH0zgO1cvcfHjGM8FtAokQ&oe=68BB67E8'); /* Altere para o caminho da sua imagem */
+    background-image: url('https://www.google.com/imgres?q=Talmax%20logo&imgurl=https%3A%2F%2Ftalmax.com.br%2Fwp-content%2Fuploads%2F2021%2F04%2Fdwn-logo-talmax-branca.jpg&imgrefurl=https%3A%2F%2Ftalmax.com.br%2Fdownload%2Flogo-talmax-azul2%2F&docid=GvwFZ3NRjvvjMM&tbnid=jdcM96SyOGEc8M&vet=12ahUKEwikgbiv4qiWAxU4IrkGHXAWIHwQnPAOegQIRBAA..i&w=400&h=400&hcb=2&ved=2ahUKEwikgbiv4qiWAxU4IrkGHXAWIHwQnPAOegQIRBAA'); /* Altere para o caminho da sua imagem */
     background-size: cover; /* Faz a imagem cobrir toda a área */
     background-position: center; /* Centraliza a imagem */
     background-repeat: no-repeat; /* Evita que a imagem se repita */
