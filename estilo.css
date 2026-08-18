@@ -6,9 +6,12 @@ body {
     height: 100vh;
     background-color: #f0f0f0; /* Cor de fallback caso a imagem não carregue */
     margin: 0;
+}
 
     /* Adicione estas linhas para a imagem de fundo */
-    background-image: url('https://talmax.com.br/wp-content/webp-express/webp-images/uploads/wpdm-cache/dwn-logo-talmax-branca-900x0.jpg.webp'); /* Altere para o caminho da sua imagem */
+    body {
+    background-image: url("img/fundo.jpg");
+    background-size: cover; /* Isso ajuda a imagem a cobrir a tela toda */ ; 
     background-size: cover; /* Faz a imagem cobrir toda a área */
     background-position: center; /* Centraliza a imagem */
     background-repeat: no-repeat; /* Evita que a imagem se repita */
